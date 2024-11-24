@@ -1,5 +1,4 @@
-- GregNewze 16y
+- GregNewze 17y
 - Programador 
-- Postando alguns códigos básicos que estou desenvolvendo
-- @gregnewse no insta B)
+- @gregnewe
   
