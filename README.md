@@ -1,4 +1,4 @@
-- GregNewze 17y
+- Érico Nunes 17y
 - Programador 
-- @gregnewe
+- @gregnewse
   
