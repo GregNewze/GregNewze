@@ -1,4 +1,3 @@
-- Érico Nunes 17y
-- Programador 
-- @gregnewse
+- Érico Nunes 18y
+- Técnico em Meca e Cursando Engenharia da Computação
   
