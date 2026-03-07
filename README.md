@@ -1,6 +1,6 @@
 # Olá, eu sou o Érico Nunes!
 
-### 💻 Estudante de Engenharia da Computação | Foco em Full-Stack e Sistemas Integrados
+### 💻 Estudante de Engenharia da Computação | Foco em Full-Stack e Sistemas Iot Integrados
 
 Gosto de colocar a mão na massa construindo soluções de ponta a ponta: desde a criação de interfaces responsivas até a integração do back-end com hardware e dispositivos IoT.
 
