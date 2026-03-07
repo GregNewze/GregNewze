@@ -4,7 +4,7 @@
 
 Gosto de colocar a mão na massa construindo soluções de ponta a ponta: desde a criação de interfaces responsivas até a integração do back-end com hardware e dispositivos IoT.
 
-- 🎓 Cursando **Engenharia da Computação** na Faculdade Matias Machline (2026-2030).
+- 🎓 Cursando **Engenharia da Computação** (2026-2030).
 - ⚙️ Formado como **Técnico em Mecatrônica** (2025).
 - 💡 Estudando atualmente: Programação Paralela e Distribuída; Estruturas de Dados; POO; Vue.js; 
 - 📫 Como me encontrar: erico.nunesc@gmail.com
