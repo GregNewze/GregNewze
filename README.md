@@ -45,8 +45,6 @@ Criação de interfaces responsivas e integração do back-end com hardware e di
 
 ---
 
-### 🤝 Vamos nos conectar!
-
 <a href="https://www.linkedin.com/in/érico-nunes-25a302376" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
