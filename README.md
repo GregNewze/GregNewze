@@ -1,17 +1,13 @@
-# Olá, eu sou o Érico Nunes!
+### 💻 Estudante de Engenharia da Computação | Foco em FullStack e Sistemas Iot Integrados
 
-### 💻 Estudante de Engenharia da Computação | Foco em Full-Stack e Sistemas Iot Integrados
+Criação de interfaces responsivas e integração do back-end com hardware e dispositivos IoT.
 
-Gosto de colocar a mão na massa construindo soluções de ponta a ponta: desde a criação de interfaces responsivas até a integração do back-end com hardware e dispositivos IoT.
-
-- 🎓 Cursando **Engenharia da Computação** (2026-2030).
-- ⚙️ Formado como **Técnico em Mecatrônica** (2025).
-- 💡 Estudando atualmente: Programação Paralela e Distribuída; Estruturas de Dados; POO; Vue.js; 
-- 📫 Como me encontrar: erico.nunesc@gmail.com
+- Cursando **Engenharia da Computação** (2026-2030).
+- Formado como **Técnico em Mecatrônica** (2025).
+- Estudando atualmente: Programação Paralela e Distribuída; Estruturas de Dados; POO; Vue.js; 
+- Contato: erico.nunesc@gmail.com
 
 ---
-
-### 🛠️ Tecnologias que estou aprendendo e utilizando
 
 **Linguagens:**
 <p>
