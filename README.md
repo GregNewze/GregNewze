@@ -6,19 +6,19 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1100&color=E10600&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+Data+Engineer;Machine+Learning+%26+LLMs;Cloud+%26+Pipelines+de+Dados;Dados+que+viram+decis%C3%B5es" alt="Typing animation" />
 </div>
 
-<br>
+---
+
+## Sobre
 
 <table>
 <tr>
 <td width="55%">
 
-### Who am I?
-
 Sou **AI Engineer** e **Data Engineer** em formação, cursando **Engenharia da Computação** na Faculdade Matias Machline (2026–2030) e formado como **Técnico em Mecatrônica** (2025).
 
 Construo do dado bruto à aplicação em uso: pipelines de dados, modelos de **Machine Learning**, integrações com **LLMs** e infraestrutura em **cloud**.
 
-**Foco atual:**
+**Foco atual**
 - IA e LLMs
 - Machine Learning e séries temporais
 - Data Engineering: ETL/ELT, PostgreSQL, TimescaleDB, Supabase
@@ -82,8 +82,8 @@ Carrinho e domínio de e-commerce com tipagem estrita e POO, sem `any`.
 </td>
 <td width="50%">
 
-**Mach Force: Finalizado**
-*Shell Eco-marathon, 2026*
+**Mach Force**
+*Shell Eco-marathon, 2026 (finalizado)*
 
 Telemetria, back-end e integração de hardware e software de um protótipo de eficiência energética.
 
@@ -93,20 +93,10 @@ Telemetria, back-end e integração de hardware e software de um protótipo de e
 </tr>
 </table>
 
-> **Caution:** o código nunca está pronto, ele só fica melhor.
+### Outros projetos
 
----
-
-## Atividade no GitHub
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GregNewze&theme=react-dark&hide_border=true&bg_color=0D1117&line=E10600&point=FFFFFF&area=true&area_color=E10600" alt="Atividade" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=GregNewze&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=E10600&icon_color=E10600" alt="Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GregNewze&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=E10600" alt="Linguagens" />
-</div>
+- **AxiosLab (2025):** sistema de estoque com inventário automatizado, ESP32 + RFID + Firebase, com interface web e mobile.
+- **Etnius, Hackathon AIHHUAM (2026):** banco de dados de um acervo digital da cultura Kokama, validado por lideranças indígenas locais.
 
 ---
 
@@ -120,15 +110,13 @@ Telemetria, back-end e integração de hardware e software de um protótipo de e
 
 ---
 
-## Outros projetos
-
-- **AxiosLab (2025):** sistema de estoque com inventário automatizado, ESP32 + RFID + Firebase, com interface web e mobile.
-- **Etnius, Hackathon AIHHUAM (2026):** banco de dados de um acervo digital da cultura Kokama, validado por lideranças indígenas locais.
-
----
+## Atividade no GitHub
 
 <div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GregNewze&theme=react-dark&hide_border=true&bg_color=0D1117&line=E10600&point=FFFFFF&area=true&area_color=E10600" alt="Atividade" />
+</div>
 
-**"Código nunca está pronto. Ele só fica melhor."**
-
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=GregNewze&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=E10600&icon_color=E10600" alt="Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GregNewze&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=E10600" alt="Linguagens" />
 </div>
