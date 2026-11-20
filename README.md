@@ -1,118 +1,134 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=2EA043&center=true&vCenter=true&width=640&lines=AI+Engineer;Data+Engineer;Machine+Learning+%26+LLMs;Cloud+%26+Pipelines+de+Dados" alt="Typing animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E10600,100:0a0a0a&height=220&section=header&text=%C3%89rico%20Nunes&fontSize=56&fontColor=ffffff&fontAlignY=38&animation=fadeIn" alt="Banner" />
+</div>
 
-  <h1>Érico Nunes Carneiro</h1>
-  <h3>AI Engineer · Data Engineer</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1100&color=E10600&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+Data+Engineer;Machine+Learning+%26+LLMs;Cloud+%26+Pipelines+de+Dados;Dados+que+viram+decis%C3%B5es" alt="Typing animation" />
+</div>
 
-  <p>Construo soluções de IA, Machine Learning e dados em cloud, do dado bruto até a aplicação em uso.</p>
+<br>
 
-  <p>
-    Engenharia da Computação · Faculdade Matias Machline (2026–2030)<br>
-    Técnico em Mecatrônica · Fundação Matias Machline (2025)
-  </p>
+<table>
+  <tr>
+    <td width="55%">
 
-  <a href="https://www.linkedin.com/in/erico-nunes-dev" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+### 🎯 Who am I?
+
+Sou **AI Engineer** e **Data Engineer** em formação, cursando **Engenharia da Computação** na Faculdade Matias Machline (2026–2030) e formado como **Técnico em Mecatrônica** (2025).
+
+Construo do dado bruto à aplicação em uso: pipelines de dados, modelos de **Machine Learning**, integrações com **LLMs** e infraestrutura em **cloud**.
+
+**Foco atual:**
+- 🤖 IA e LLMs
+- 📊 Machine Learning e séries temporais
+- 🔄 Data Engineering: ETL/ELT, PostgreSQL, TimescaleDB, Supabase
+- ☁️ Cloud e deploy
+
+    </td>
+    <td width="45%" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=GregNewze&theme=radical&hide_border=true&background=0D1117" alt="Streak" />
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/erico-nunes-dev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-E10600?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:erico.nunesc@gmail.com"><img src="https://img.shields.io/badge/Email-E10600?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
 
 ---
 
-### 🎯 Foco
+## 🧭 Projetos em destaque
 
-- **IA e LLMs:** aplicações com modelos de linguagem e avaliação de resultados.
-- **Machine Learning:** modelos de classificação, séries temporais e análise de sinais.
-- **Data Engineering:** ingestão, transformação e armazenamento de dados com PostgreSQL, TimescaleDB e Supabase.
-- **Cloud:** deploy e integração de serviços com Vercel, Firebase e Supabase.
+<table>
+  <tr>
+    <td width="50%">
+
+**🏀 Northern in Barcelona**
+*Posse de bola em futebol com tracking*
+
+Pipeline que decide, frame a frame, qual time tem a bola, combinando regras, classificadores e uma LSTM em PyTorch.
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![pandas](https://img.shields.io/badge/-pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+[Repositório →](https://github.com/GregNewze/northern-in-barcelona)
+
+    </td>
+    <td width="50%">
+
+**💸 Controle de Gastos**
+*Dashboard financeiro full stack*
+
+Receitas, despesas, saldo e gráfico de distribuição em uma interface limpa.
+
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+[Repositório →](https://github.com/GregNewze/Controle-de-Gastos)
+
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+
+**🛒 E-commerce TIC Hub**
+*Motor de regras de negócio*
+
+Carrinho e domínio de e-commerce com tipagem estrita e POO, sem `any`.
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+
+[Repositório →](https://github.com/GregNewze/E-commerce---TIC-HUB)
+
+    </td>
+    <td width="50%">
+
+**✅ Mach Force: Finalizado**
+*Shell Eco-marathon, 2026*
+
+Telemetria, back-end e integração de hardware e software de um protótipo de eficiência energética.
+
+![Embedded](https://img.shields.io/badge/-Embarcados-E7352C?style=flat-square&logo=espressif&logoColor=white)
+
+    </td>
+  </tr>
+</table>
+
+> **Caution:** o código nunca está pronto, ele só fica melhor. 🔥
 
 ---
 
-### 🚀 Projetos em destaque
+## 📈 Atividade no GitHub
 
-**Northern in Barcelona: estimativa de posse de bola com tracking de futebol**
-*More Than A Hack 2027 (Metrica Sports + FC Barcelona Innovation Hub)*
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GregNewze&theme=react-dark&hide_border=true&bg_color=0D1117&line=E10600&point=FFFFFF&area=true&area_color=E10600" alt="Atividade" />
+</div>
 
-Pipeline que decide, frame a frame, qual time tem a bola a partir de dados de tracking de jogadores. Combina regras, classificadores e uma LSTM em PyTorch para os trechos sem bola visível.
-- **Stack:** Python, pandas, NumPy, PyTorch
-- **Repositório:** [northern-in-barcelona](https://github.com/GregNewze/northern-in-barcelona)
-
-**Controle de Gastos: dashboard financeiro**
-
-Aplicação full stack com receitas, despesas, saldo e gráfico de distribuição.
-- **Stack:** React, FastAPI, SQLite
-- **Repositório:** [Controle-de-Gastos](https://github.com/GregNewze/Controle-de-Gastos)
-
-**E-commerce TIC Hub: motor de regras de negócio**
-
-Lógica de carrinho e domínio de e-commerce com tipagem estrita, sem `any`.
-- **Stack:** TypeScript, POO
-- **Repositório:** [E-commerce---TIC-HUB](https://github.com/GregNewze/E-commerce---TIC-HUB)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GregNewze&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=E10600&icon_color=E10600" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GregNewze&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=E10600" alt="Linguagens" />
+</div>
 
 ---
 
-### 🛠️ Outros projetos
+## 🧰 Stack
 
-- **Mach Force (Shell Eco-marathon), 2026: Finalizado.** Telemetria, back-end e integração de hardware e software de um protótipo de eficiência energética.
-- **AxiosLab, 2025:** sistema de estoque com inventário automatizado. Sensores ESP32, HX711 e RFID conectados ao Firebase, com interface web e mobile.
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,pandas,numpy,postgres,supabase,firebase,fastapi,nodejs,react,nextjs,vue,typescript,javascript,tailwind,vercel,git,gitlab,n8n&theme=dark" alt="Skills" />
+</div>
+
+**Embarcados e IoT:** ESP32 · Raspberry Pi · MQTT · HX711 · RFID
+
+---
+
+## 🛠️ Outros projetos
+
+- **AxiosLab (2025):** sistema de estoque com inventário automatizado, ESP32 + RFID + Firebase, com interface web e mobile.
 - **Etnius, Hackathon AIHHUAM (2026):** banco de dados de um acervo digital da cultura Kokama, validado por lideranças indígenas locais.
 
 ---
 
-### 🧰 Stack
+<div align="center">
 
-**Linguagens:**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-</p>
+**"Código nunca está pronto. Ele só fica melhor."**
 
-**IA e Machine Learning:**
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-</p>
-
-**Dados e Bancos de Dados:**
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/TimescaleDB-FDB515?style=for-the-badge&logo=timescale&logoColor=black" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
-</p>
-
-**Back-end e Front-end:**
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</p>
-
-**Cloud, DevOps e Ferramentas:**
-<p>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
-</p>
-
-**Embarcados e IoT:**
-<p>
-  <img src="https://img.shields.io/badge/Espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" />
-  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" />
-</p>
-
----
-
-### 📫 Contato
-
-- LinkedIn: [erico-nunes-dev](https://www.linkedin.com/in/erico-nunes-dev)
-- Email: erico.nunesc@gmail.com
+</div>
